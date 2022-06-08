@@ -10,10 +10,12 @@
 </head>
 <body>
   <div id="app">Please wait...</div>
+  <!-- docsify-edit-on-github -->
+  <script src="//unpkg.com/docsify-edit-on-github/index.js"></script>
   <script>
     window.$docsify = {
       name: 'changzheng-教程', // 文档标题，会显示在侧边栏顶部
-      repo: 'https://github.com/ZhiliangMa/easyio-lib-for-esp32', // 右上角Github图标链接
+      repo: 'https://github.com/changzheng0101', // 右上角Github图标链接
       loadNavbar: true, // 默认加载 _navbar.md，作为顶部导航栏
 	  loadSidebar: true,
 	  search: {
@@ -22,6 +24,7 @@
         noData: '找不到结果',
         depth: 3,
       },
+	  plugins: [EditOnGithubPlugin.create('https://github.com/changzheng0101/docs/blob/main/')], //在GitHub上编辑对应的页面
     }
   </script>
   <!-- Docsify v4 -->
@@ -31,13 +34,15 @@
     <!-- 一键复制插件 -->
   <script src="https://unpkg.com/docsify-copy-code"></script>
   <!-- 代码高亮 -->
-  <!--
-  <script src="https://unkpg.com/prismjs@1/components/prism-bash.min.js"></script>
-  <script src="https://unkpg.com/prismjs@1/components/prism-c.min.js"></script>
-  <script src="https://unkpg.com/prismjs@1/components/prism-json.min.js"></script>
-  <script src="https://unkpg.com/prismjs@1/components/prism-shell-session.min.js"></script>
-  <script src="https://unkpg.com/prismjs@1/components/prism-python.min.js"></script>
-  <script src="https://unkpg.com/prismjs@1/components/prism-http.min.js"></script>-->
+  <script src="//unpkg.com/prismjs/components/prism-java.js"></script>
+  <script src="//unpkg.com/prismjs/components/prism-bash.js"></script>
+  <script src="//unpkg.com/prismjs/components/prism-c.js"></script>
+  <script src="//unpkg.com/prismjs/components/prism-json.js"></script>
+  <script src="//unpkg.com/prismjs/components/prism-python.js"></script>
+	<!-- 图片缩放 -->
+	<script src="//unpkg.com/docsify/lib/plugins/zoom-image.js"></script>
+	<!-- 字数统计 -->
+	<script src="//unpkg.com/docsify-count/dist/countable.js"></script>
   <!-- 主题 -->
   <link rel="stylesheet" href="https://docsify-darklight-theme.boopathikumar.me/#/installation">
 	
