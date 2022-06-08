@@ -25,6 +25,12 @@
         depth: 3,
       },
 	  plugins: [EditOnGithubPlugin.create('https://github.com/changzheng0101/docs/blob/main/')], //在GitHub上编辑对应的页面
+	  pagination: {
+            previousText: '上一篇',
+            nextText: '下一篇',
+            crossChapter: true,
+            crossChapterText: false,
+       },
     }
   </script>
   <!-- Docsify v4 -->
@@ -45,6 +51,8 @@
 	<script src="//unpkg.com/docsify-count/dist/countable.js"></script>
   <!-- 主题 -->
   <link rel="stylesheet" href="https://docsify-darklight-theme.boopathikumar.me/#/installation">
+  <!-- 上一篇和下一篇 -->
+  <script src="//unpkg.com/docsify-pagination/dist/docsify-pagination.min.js"></script>
 	
 </body>
 </html>
