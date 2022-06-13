@@ -6,3 +6,6 @@
 * [Rabbitmq](./RabbitMQ)
   * [环境搭建及基本代码](./RabbitMQ/环境搭建及基础示例.md)
   * [消费者执行耗时操作](./RabbitMQ/模拟消费者执行耗时操作.md)
+* [Linux](./Linux/)
+  * [常用快捷键](./Linux/提高工作效率的快捷键.md)
+  * [常用命令]()
