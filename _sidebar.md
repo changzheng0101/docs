@@ -1,6 +1,8 @@
 * [Home](/) 
 * [GitHub](./GitHub教程)
   * [GitHub初体验](./GitHub教程/github初体验.md)
-  
 * [Vim](./Vim)
   * [初识vim](./Vim/初识vim.md)
+* [Rabbitmq](./RabbitMQ)
+  * [环境搭建及基本代码](./RabbitMQ/环境搭建及基础示例.md)
+  * [消费者执行耗时操作](./RabbitMQ/模拟消费者执行耗时操作.md)
