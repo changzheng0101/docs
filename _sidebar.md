@@ -5,7 +5,7 @@
   * [总结笔记](./GitHub教程/总结笔记.md)
 * [Vim](./Vim)
   * [初识vim](./Vim/初识vim.md)
-  * [编辑技巧进阶](./Vim/多文档编辑.md)
+  * [编辑技巧进阶](./Vim/编辑技巧进阶.md)
   * [多文档编辑](./Vim/多文档编辑.md)
   * [快速移动](./Vim/快速移动.md)
 * [Rabbitmq](./RabbitMQ)
@@ -17,6 +17,7 @@
   * [进程](./Linux/进程相关.md)
   * [用户管理](./Linux/用户管理.md)
   * [bash编程](./Linux/bash编程/bash脚本.md)
+  * [别名](./Linux/别名.md)
 * Spring
   * [入门](./Spring/1-基础入门.md)
   * [data注解](./Spring/2-给Data添加注解.md)
