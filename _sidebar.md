@@ -3,7 +3,7 @@
   * [GitHub初体验](./GitHub教程/github初体验.md)
   * [工作流程](./GitHub教程/工作流程.md)
   * [总结笔记](./GitHub教程/总结笔记.md)
-* [Vim](./Vim)
+* Vim
   * [初识vim](./Vim/初识vim.md)
   * [编辑技巧进阶](./Vim/编辑技巧进阶.md)
   * [多文档编辑](./Vim/多文档编辑.md)
@@ -22,3 +22,7 @@
   * [入门](./Spring/1-基础入门.md)
   * [data注解](./Spring/2-给Data添加注解.md)
   * [Redis高并发](./Spring/Redis高并发+分布式.md)
+
+* Java
+  * [线程](./简单笔记/java线程/java线程.md)
+  * [lambda表达式](./简单笔记/java线程/lambda.md)

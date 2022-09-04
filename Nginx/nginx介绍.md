@@ -70,10 +70,6 @@ sudo nginx -t
 sudo service nginx restart
 ```
 
-
-
-
-
 部署产看nginx状态的网站
 
 ```bash
