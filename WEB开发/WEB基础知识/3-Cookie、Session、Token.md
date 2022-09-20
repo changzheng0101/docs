@@ -1,4 +1,4 @@
-# Cookie和Session
+# Cookie、Session、Token
 
 ## Cookie
 
@@ -43,3 +43,9 @@ session.invalidate();
 ```
 
 session是通过key：value的方式来保存的，value为Object
+
+## Token
+
+token是在服务器上保存秘钥，然后将数据放在以JWT方式，放在Cookie中发送给客户端。之后客户端每次访问服务器，都需要带上Cookie，服务器通过秘钥，完成解码，获取所需要的数据。
+
+>Cookie是一种在浏览器和服务器之间传递信息的方式；Session保存会话，Session由服务器产生，并且保存在服务器，与客户端沟通时只传递SessionID；Token方式，服务器端只保存秘钥，具体的内容发送给客户端，客户端每次访问的时候带着Token来，之后服务器进行解码，大大降低了服务器端的存储压力。
