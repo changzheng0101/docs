@@ -1,0 +1,47 @@
+1
+00:00:02,390 --> 00:00:04,040
+Much of the background that you'll need to
+
+2
+00:00:04,040 --> 00:00:07,570
+know, is covered in this introductory lesson and
+
+3
+00:00:07,570 --> 00:00:11,800
+the review lessons taught by Charlie Brubaker. However,
+
+4
+00:00:11,800 --> 00:00:14,480
+to get the full benefit of this course, you
+
+5
+00:00:14,480 --> 00:00:18,010
+should have a strong undergraduate background in computer
+
+6
+00:00:18,010 --> 00:00:21,340
+systems and networks. With that in mind, let's
+
+7
+00:00:21,340 --> 00:00:24,050
+get started with our review and load some
+
+8
+00:00:24,050 --> 00:00:27,010
+of the operating systems basics into our collective memories.
+
+9
+00:00:28,030 --> 00:00:33,240
+I've intentionally structured this lesson to be quiz-heavy, since most
+
+10
+00:00:33,240 --> 00:00:36,670
+of the background material should be already familiar to you. And
+
+11
+00:00:36,670 --> 00:00:40,260
+hopefully that format that I'm going to use, we'll find this
+
+12
+00:00:40,260 --> 00:00:43,790
+to be a more fun way to jog our collective memories.

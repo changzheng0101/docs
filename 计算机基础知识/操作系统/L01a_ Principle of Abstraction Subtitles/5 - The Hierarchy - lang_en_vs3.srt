@@ -1,0 +1,27 @@
+1
+00:00:00,084 --> 00:00:01,998
+[BLANK_AUDIO]
+
+2
+00:00:01,998 --> 00:00:04,140
+As computer scientists, one of the most
+
+3
+00:00:04,140 --> 00:00:06,471
+powerful tools that's available to us, is
+
+4
+00:00:06,471 --> 00:00:11,990
+the concept of an abstraction. And by an abstraction, we mean a well understood
+
+5
+00:00:11,990 --> 00:00:17,750
+interface, that hides all the details within a subsystem. Let's see how, in a
+
+6
+00:00:17,750 --> 00:00:21,370
+computer system, the hierarchy of abstractions works,
+
+7
+00:00:21,370 --> 00:00:24,630
+and where operating system fits, within this hierarchy.
