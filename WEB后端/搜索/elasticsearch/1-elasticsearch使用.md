@@ -162,7 +162,7 @@ PUT /test1/type1/1
 
 - 字符串类型
 
-  - text、
+  - text
 
     keyword
 
