@@ -1,5 +1,18 @@
 # Conda环境配置
 
+<<<<<<< HEAD
+=======
+## 安装
+
+安装的时候不要添加环境变量，自己之后手动添加
+
+![img](md_img/conda环境配置/v2-dea67711e338c1a1dd5f909993f7d2e1_r.jpg)
+
+环境变量中的相关路径如下
+
+![img](md_img/conda环境配置/50def47bda2547a6bdcc32bb15656667.png)
+
+>>>>>>> e03724c8055e5ea482701a0b8f9d338e1bc2cf14
 ## 查看
 
 ```bash
